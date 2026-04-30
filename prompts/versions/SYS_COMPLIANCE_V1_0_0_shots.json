@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Review transaction TXN-8821 for policy compliance."
+  },
+  {
+    "role": "assistant",
+    "content": "{\"transaction_id\": \"TXN-8821\", \"status\": \"requires_review\", \"reason\": \"Amount exceeds threshold defined in POL-2024-03\", \"document_id\": \"POL-2024-03\", \"confidence\": \"high\"}"
+  }
+]
